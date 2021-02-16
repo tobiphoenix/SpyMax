@@ -1,0 +1,745 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SpyMax
+</name>
+</assembly>
+<members>
+<member name="T:SpyMax.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources._2020_07_23_14_0eee7_41">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources._2020_07_23_14_0eee7_411">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources._584b607f5c2ff075429dc0e7b8d142ef">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources._5febab2a15060d631191930fc7c96a79">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.about_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.about_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.Account">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.android_os_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.ask_question_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.ask_question_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.c863daf947cd38a8aaf09b192dd4c8dc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.camera_icon_with_face_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.cancel_18px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.cancel_20px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.cancel_20px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.certificate_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.chat_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.checked_checkbox_24px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.checkmark_yes_20px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.checkmark_yes_20px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.circled_play_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.clipboard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.comedy_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.commercial_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.copy_20px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.copy_20px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.customer_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.cydia_70px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.dark_loader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.data_protection_20px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.delete_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.delete_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.delete_17px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.delete_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.delete_40px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.developer_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.disconnected_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.disconnected_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.disconnected_17px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.dns_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.download_20px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.downloading_updates_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.er">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.error_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.exchange_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.exchange_26px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.facebook_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.facebook_32px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.gp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.grand_master_key_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.hard_to_find_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.help_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.hide_sidepanel_70px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.hide_sidepanel_70px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.hide_sidepanel_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.high_importance_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.hzk6C">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.hzk6C1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.icons8_grand_master_key_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.IllAjarGharial_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.in_progress_18px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.inquiry_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.inquiry_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.inquiry_17px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.inquiry_17px3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.inquiry_17px4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.inquiry_17pxd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.inquiry_17pxg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.internet_of_things_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.internet_of_things_90px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.loader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.loader1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.loading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.loading_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.loading_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.login_30px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.LOGO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.LOGO1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.LOGOff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.LOGOffggsds">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.maintenance_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.maintenance_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.maintenance_17px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.maintenance_17px3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.male_user_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.map">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta charset=&apos;utf-8&apos; /&gt;
+&lt;title&gt;\\name_victim:\\&lt;/title&gt;
+&lt;meta name=&apos;viewport&apos; content=&apos;initial-scale=1,maximum-scale=1,user-scalable=no&apos; /&gt;
+&lt;script src=&apos;https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js&apos;&gt;&lt;/script&gt;
+&lt;link href=&apos;https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css&apos; rel=&apos;stylesheet&apos; /&gt;
+&lt;style&gt;
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+ 
+&lt;div id=&apos;map&apos;&gt;&lt;/div&gt;
+  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.mark_view_as_hidden_75px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.max">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.merge_files_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.merge_files_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.merge_files_75px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.merge_files_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.multiply_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.multiply_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.networking_manager_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.networking_manager_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.networking_manager_17px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.networking_manager_17px3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.networking_manager_17px4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.NOTIFICATION">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.ok_18px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.ok_22px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.organ_transplantation_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.paste_20px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.PBil_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.power_off_button_20px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.power_off_button_20px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.questions_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.recycle_20px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.refresh_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.refresh_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.screenshot_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.screenshot_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.screenshot_35px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.screenshot_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.screenshot_40px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.screenshot_40pxr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.settings_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.settings_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.settings_17px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.shutdown_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.shutdown_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.shutdown_17px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.shutdown_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.sss_23_14_07_41">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.symlink_directory_70px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.symlink_directory_70px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.System">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.twitter_circled_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.Untitled_2wewweewww">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.upload_to_cloud_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.user_account_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.user_groups_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.user_groups_17px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.vkontakte_circled_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.wallpaper">
+<summary>
+  Looks up a localized string similar to /9j/4QN0RXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUAAAABAAAAYgEbAAUAAAABAAAAagEoAAMAAAABAAIAAAExAAIAAAAcAAAAcgEyAAIAAAAUAAAAjodpAAQAAAABAAAApAAAANAADqZ4AAAnEAAOpngAACcQQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzADIwMTc6MTA6MTMgMDE6NDM6MDcAAAAAA6ABAAMAAAAB//8AAKACAAQAAAABAAAAMKADAAQAAAABAAAAMAAAAAAAAAAGAQMAAwAAAAEABgAAARoABQAAAAEAAAEeARsABQAAAAEAAAEmASgAAwAAAAEAAgAAAgEABAAAAAEAAAEuAgIABAAAAAEAAAI+AAAAAAAAAEgAAAABAAAASAAAAAH/2P/tAAxBZG9iZV9DTQAC/+4ADkFkb2JlAGSAAAAAAf/bAIQADAgICAkIDAkJDBELCgsRFQ8MDA8VGBMTFRMTGBEMDAwM [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.wi_fi_17px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SpyMax.My.Resources.Resources.ZZ5H">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SpyMax.DrawHelpers">
+ <summary>
+ LogIn GDI+ Theme
+ Creator: Xertz (HF)
+ Version: 1.4
+ Control Count: 28
+ Date Created: 18/12/2013
+ Date Changed: 07/09/2014
+ UID: 1602992
+ For any bugs / errors, PM me.
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
